@@ -1,0 +1,38 @@
+* {
+    background: gray;
+}
+
+.chico {
+    display: block;
+    height: 100px;
+    background-color: rgba(88, 166, 240, 0.856);
+    margin-bottom: 8px;
+}
+.grande {
+    display: block;
+    height: 200px;
+    background-color: rgba(88, 166, 240, 0.856);
+    margin-bottom: 8px;
+}
+.container {
+    font-size: 0;
+    padding: 0;
+    margin: 0;
+}
+.mediano.azul.margin-derecho {
+    display: inline-block;
+    height: 200px;
+    background:rgba(88, 166, 240, 0.856);
+    width: 49.77%;
+    margin-bottom: 8px;
+    margin-right: 8px;
+}
+
+.mediano.azul {
+    display:inline-block;
+    height: 200px;
+    background: rgba(88, 166, 240, 0.856);
+    width: 49.77%;
+    margin-bottom: 8px;
+}
+
